@@ -1,5 +1,5 @@
 {
-    "name": "italodeveloper/guzzle-zend",
+    "name": "robertov8/guzzle-zend",
     "description": "Abstrai o modelo de requisição do Guzzle e transforma em Zend Http Requests XD",
     "type": "library",
     "license": "MIT",
@@ -10,6 +10,10 @@
         {
             "name": "Ítalo Araújo",
             "email": "italoaraujo788@gmail.com"
+        },
+        {
+            "name": "Roberto Ribeiro",
+            "email": "robertoribeiro.code@gmail.com"
         }
     ],
     "require": {
