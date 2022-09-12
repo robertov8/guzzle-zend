@@ -1,0 +1,24 @@
+{
+    "name": "italodeveloper/guzzle-zend",
+    "description": "Abstrai o modelo de requisição do Guzzle e transforma em Zend Http Requests XD",
+    "type": "library",
+    "license": "MIT",
+    "config": {
+        "optimize-autoloader": true
+    },
+    "authors": [
+        {
+            "name": "Ítalo Araújo",
+            "email": "italoaraujo788@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZendAdapter\\": "src/"
+        }
+    }
+}
